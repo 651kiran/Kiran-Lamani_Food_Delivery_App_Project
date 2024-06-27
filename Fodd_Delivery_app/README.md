@@ -5,7 +5,7 @@ This project is an online food delivery application developed using Java, JDBC, 
 viewing menus, adding items to the cart, and placing orders securely.
 
 Features:
-.User Authentication: Users can sign up and log in securely using the provided credentials (Username: Scachin, Password: Sachin@123).
+.User Authentication: Users can sign up and log in securely using the provided credentials (Username: Kiran, Password: Kiran@123).
 .Browse Restaurants: Clickable images allow users to view menus of different restaurants.
 .Add to Cart: Users can add items to their cart using the "Add More" button. The cart supports updating and removing items.
 .Checkout: Users need to provide their address and select a payment mode before confirming the order.
